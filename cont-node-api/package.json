@@ -1,0 +1,16 @@
+{
+    "name": "cont-node-api",
+    "version": "1.0.0",
+    "description": "api for business purpose",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "joelton matos",
+    "license": "ISC",
+    "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~4.1.9",
+        "body-parser": "~1.0.1"
+    }
+}
